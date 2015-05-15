@@ -1,0 +1,14 @@
+{
+    <% if(isBowerComponent) { %>"isBowerComponent": true,<% }else{ %>"isBowerComponent": false,<% } %>
+    "feature": [],
+    "controller": [],
+    "filter": [],
+    "directive": [],
+    "service": [],
+    "factory": [],
+    "provider": [],
+    "value": [],
+    "constant": [],
+    "view": [],
+    "sass": []
+}
